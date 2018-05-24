@@ -56,6 +56,12 @@ Ansible is a configuration management and provisioning tool written
 in Python that uses SSH to update remote configuraitons. Ansible
 playbooks automate setup of systems.
 
+Chris Short has `rak8s` (pronounced rackets), an Ansible playbook to deploy Kubernetes to Raspberry Pis.
+
+* https://chrisshort.net/my-raspberry-pi-kubernetes-cluster/
+* https://rak8s.io/
+* https://github.com/rak8s/rak8s
+
 Michael Robbins has a set of Ansible playbooks for setting up a
 Raspbian Stretch (32-bit) cluster.
 
