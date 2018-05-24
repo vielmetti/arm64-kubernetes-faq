@@ -10,8 +10,9 @@ answer those questions.
 
 Pull requests are welcomed.
 
-### Table of contents
+## Table of contents
 
+* Basics
 * Hardware choices
 * Provisioning tools
 * Memory considerations
@@ -41,7 +42,31 @@ Pull requests are welcomed.
 * Flannel
 * MetalLB (load balancer for bare metal)
 
+### Applications
+
+* OpenFaaS
+
 ### Mixed architecture clusters
+
+--
+
+## Ansible
+
+Ansible is a configuration management and provisioning tool written
+in Python that uses SSH to update remote configuraitons. Ansible
+playbooks automate setup of systems.
+
+Michael Robbins has a set of Ansible playbooks for setting up a
+Raspbian Stretch (32-bit) cluster.
+
+* https://github.com/michael-robbins/rpi-k8s-ansible
+
+Citrullin has a set of Ansible playbooks for setting up an arm64
+cluster in an all-IPv6 configuration.
+
+* https://github.com/Citrullin/ansible-kubernetes-arm-ipv6
+
+--
 
 ### Credits
 
