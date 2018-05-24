@@ -39,6 +39,7 @@ Pull requests are welcomed.
 
 * Weave
 * Flannel
+* MetalLB (load balancer for bare metal)
 
 ### Mixed architecture clusters
 
