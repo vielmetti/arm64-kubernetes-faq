@@ -2,6 +2,8 @@
 
 Edited by Ed Vielmetti, Packet, Works on Arm project ed@packet.net
 
+See below for a complete list of contributors.
+
 ### About this document
 
 This FAQ is designed to capture the questions that come up in the #arm64
@@ -41,10 +43,12 @@ Pull requests are welcomed.
 * Weave
 * Flannel
 * MetalLB (load balancer for bare metal)
+* Calico
 
 ### Applications
 
 * OpenFaaS
+* Gitlab CI
 
 ### Mixed architecture clusters
 
@@ -78,5 +82,8 @@ cluster in an all-IPv6 configuration.
 
 Thanks to the following for their contributions:
 
-* (your name here)
+* Carl Perry
+* Chris Short
+* Michael Robbins
+* Josh Reichardt
 
