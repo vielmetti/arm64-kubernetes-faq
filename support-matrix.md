@@ -6,7 +6,7 @@ This is an (incomplete) list of ARM devices that have been tested or are in the 
 |-|-|-|-|-|
 | Rock64 | [Xenial minimal rock64 0.5.15/4.4](https://github.com/ayufan-rock64/linux-build/releases/tag/0.5.15)  | docker-ce=18.04.0~ce~3-0~ubuntu | 1.9.7, 1.10.2 | 1.9.7, 1.10.2 |
 | Raspberry Pi 3B+ | [Raspbian Strectch Lite/4.14](https://www.raspberrypi.org/downloads/raspbian/) | docker-ce=18.04.0~ce~3-0~raspbian | 1.9.7, 1.10.2 | 1.9.7, 1.10.2 |
-| Cavium ThunderX (Packet c1.large.arm) | Ubuntu Bionic 18.04 LTS | | | |
+| Cavium ThunderX (Packet c1.large.arm) | Debian 9 | | | |
 
 ## Kubernetes software matrix
 
