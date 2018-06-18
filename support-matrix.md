@@ -38,5 +38,6 @@ There are some open issues currently that are causing issues for folks trying to
 * [kubeadm init stuck - 1.10.3](https://github.com/kubernetes/kubernetes/issues/61277#issuecomment-390484103)
 * [etcd doesn'r run on arm64](https://github.com/coreos/etcd/issues/5054)
 * [Nginx Ingress controller crash on boot](https://github.com/kubernetes/ingress-nginx/issues/2547) (merged - should be released in 0.16.0)
+* [cert-manager port to arm64](https://github.com/jetstack/cert-manager/pull/614)
 
 Please feel free to open a PR with any other devices or software that has been tested or otherwise proven to be stable, or if there are blocking issues feel free to add them to the list.
