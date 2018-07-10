@@ -24,13 +24,15 @@ This is a running list of either officially supported ARM ports or those done by
 | CoreDNS | 1.0.6+ | 1.10.5, 1.11.0 | yes | RPi, Rock64 |
 | Kube-DNS | 1.14.8 | 1.10.5 | yes | RPi |
 | Nginx Ingress controller | 0.16.2 | 1.10.5, 1.11.0 | yes | Rock64 |
-| Traefik | 1.6.3| 1.10.5, 1.11.0 | yes | Rock64 |
+| Traefik | 1.6.4 | 1.10.5, 1.11.0 | yes | Rock64 |
 | Heapster (deprecated) | 1.5.0 | 1.10.5, 1.11.0 | yes | Rock64 |
 | * Metrics server | 0.2.1 | 1.10.5, 1.11.0 | yes | Rock64 |
 | Kubernetes Dashboard | 1.8.3 | 1.10.5, 1.11.0 | yes | Rock64 |
 
 ### Community supported
 
+| Service | Version | Kubernetes tested version | Officially supported | Device(s) tested on |
+|-|-|-|-|-|
 | Prometheus | 2.3.1 | 1.10.5, 1.11.0 | [no](https://github.com/carlosedp/prometheus-ARM) | Rock64 |
 | Prometheus Operator | 0.17.0 | 1.10.5, 1.11.0 | [no](https://github.com/carlosedp/prometheus-operator-ARM) | Rock64 |
 | Helm Tiller | v2.9.1 | 1.10.5, 1.11.0 | [no](https://github.com/jessestuart/tiller-multiarch) | Rock64 |
