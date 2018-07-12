@@ -5,7 +5,7 @@ This is an (incomplete) list of ARM devices that have been tested or are in the 
 | device | OS/kernel | Docker verion | Kubernetes master version | Kubernetes worker version |
 |-|-|-|-|-|
 | Rock64 | [Xenial minimal rock64 0.5.15/4.4](https://github.com/ayufan-rock64/linux-build/releases/tag/0.5.15)  | docker-ce=18.04.0~ce~3-0~ubuntu | 1.9.7, 1.10.5, 1.11.0 | 1.9.7, 1.10.5, 1.11.0 |
-| RPi 3B/3B+ | [Raspbian Strectch Lite/4.14](https://www.raspberrypi.org/downloads/raspbian/) | docker-ce=18.04.0~ce~3-0~raspbian | 1.9.7, 1.10.5 | 1.9.7, 1.10.5 |
+| RPi 3B/3B+ | [Raspbian Stretch Lite/4.14](https://www.raspberrypi.org/downloads/raspbian/) | docker-ce=18.04.0~ce~3-0~raspbian | 1.9.7, 1.10.5 | 1.9.7, 1.10.5 |
 | Cavium ThunderX (Packet c1.large.arm) | Debian 9 | | | |
 | RPi 3B/3B+ | [Hypriot OS/4.14.34](http://blog.hypriot.com/downloads/)  | docker-ce=18.04.0 | untested | untestd |
 
