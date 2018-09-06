@@ -19,7 +19,7 @@ This is a running list of either officially supported ARM ports or those done by
 |-|-|-|-|-|
 | Weave | 2.3.0 | 1.10.5 | yes | RPi, Rock64 |
 | Flannel| 0.10.0| 1.10.5, 1.11.0| yes | Rock64 |
-| MetalLB | v0.4.5+ | 1.10.5, 1.11.0 | yes | Rock64 |
+| MetalLB | v0.4.5+ | 1.10.5, 1.11.0 | yes | RPi, Rock64 |
 | Etcd | 3.1.12| 1.10.5, 1.11.0 | yes | RPi, Rock64 |
 | CoreDNS | 1.0.6+ | 1.10.5, 1.11.0 | yes | RPi, Rock64 |
 | Kube-DNS | 1.14.8 | 1.10.5 | yes | RPi |
