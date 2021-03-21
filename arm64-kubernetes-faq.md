@@ -1,3 +1,8 @@
+# Project archived
+
+Lots has changed from 2018 when this started, and the FAQ
+has not kept up. This project is now archived.
+
 # Frequently asked questions about Kubernetes on arm64, with answers
 
 Edited by Ed Vielmetti, Packet, Works on Arm project ed@packet.net
